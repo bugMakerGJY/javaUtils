@@ -1,12 +1,12 @@
-javaUtils 
+		javaUtils 
 ====  
 
 创建测试数据工具--CreateTestDataUtil  
 -------  
->功能  
->>根据Bean向表中插入测试数据 
+		##功能  
+		根据Bean向表中插入测试数据 
  
-		>示例
+		##示例
 		
 ```Java
 //设置数据库连接
